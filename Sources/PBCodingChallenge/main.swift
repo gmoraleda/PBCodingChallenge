@@ -11,7 +11,7 @@ if arguments.count != 3 {
   if let n = Int(arguments[2]) {
     let lu = ListUtils(file: data, target: n)
     if let list = lu.loadList() {
-        let result = lu.searchForCandidates(data: list)
+        let result = lu.searchForCandidates(data: list.sorted())
         lu.printResult(result: result)
       } else {
         print("ERROR: Data not loaded. Check usage")
