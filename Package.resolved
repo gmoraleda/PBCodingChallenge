@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ListUtils",
+        "repositoryURL": "/Users/guille/Documents/PayBackCodingChallenge/ListUtils",
+        "state": {
+          "branch": null,
+          "revision": "4f09ac09105b368fed0fcb40a4541c29e8b4cdfe",
+          "version": "1.0.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
