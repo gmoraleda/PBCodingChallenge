@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
   name: "PBCodingChallenge",
   dependencies: [
-    .package(url: "https://github.com/gmoraleda/ListUtils", from: "1.0.5")
+    .package(url: "https://github.com/gmoraleda/ListUtils", from: "1.0.6")
   ],
   targets: [
     .target(
