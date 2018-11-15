@@ -4,8 +4,8 @@ let arguments = CommandLine.arguments
 
 if arguments.count != 3 {
   print("USAGE: PayBackCodingChallenge [data] [target]")
-  print("  data: Complete to file containing list of numbers ")
-  print("  target: Target number")
+  print("    data: Complete to file containing list of numbers ")
+  print("    target: Target number")
 } else {
   let data = arguments[1]
   if let n = Int(arguments[2]) {
@@ -20,7 +20,3 @@ if arguments.count != 3 {
     print("ERROR: Wrong target. Check usage")
   }
 }
-
-
-
-
