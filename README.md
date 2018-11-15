@@ -8,6 +8,8 @@ swift build
 .build/debug/PBCodingChallenge [data] [target]
   data: Complete path to file containing list of numbers
   target: Target number
+ ```
 e.g.:
+```
 .build/debug/PBCodingChallenge numbers 234
 ```
