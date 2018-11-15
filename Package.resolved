@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "ListUtils",
-        "repositoryURL": "/Users/guille/Documents/PayBackCodingChallenge/ListUtils",
+        "repositoryURL": "https://github.com/gmoraleda/ListUtils",
         "state": {
           "branch": null,
           "revision": "4f09ac09105b368fed0fcb40a4541c29e8b4cdfe",
